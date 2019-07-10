@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\ElJuegoDeLaVida\\Juego\\Juego\\Juego.csproj",
+      "projectUniqueName": "C:\\Users\\formacion.GTT\\source\\repos\\JuegoVidaMiriam\\Juego\\Juego\\Juego.csproj",
       "projectName": "Juego",
-      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\ElJuegoDeLaVida\\Juego\\Juego\\Juego.csproj",
+      "projectPath": "C:\\Users\\formacion.GTT\\source\\repos\\JuegoVidaMiriam\\Juego\\Juego\\Juego.csproj",
       "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\ElJuegoDeLaVida\\Juego\\Juego\\obj\\",
+      "outputPath": "C:\\Users\\formacion.GTT\\source\\repos\\JuegoVidaMiriam\\Juego\\Juego\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

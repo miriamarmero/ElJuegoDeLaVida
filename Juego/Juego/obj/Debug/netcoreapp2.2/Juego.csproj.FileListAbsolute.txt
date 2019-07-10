@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\obj\Debug\netcoreapp2.2\Juego.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\obj\Debug\netcoreapp2.2\Juego.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\obj\Debug\netcoreapp2.2\Juego.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\obj\Debug\netcoreapp2.2\Juego.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\bin\Debug\netcoreapp2.2\Juego.deps.json
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\bin\Debug\netcoreapp2.2\Juego.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\bin\Debug\netcoreapp2.2\Juego.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\bin\Debug\netcoreapp2.2\Juego.dll
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\bin\Debug\netcoreapp2.2\Juego.pdb
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\obj\Debug\netcoreapp2.2\Juego.dll
+C:\Users\formacion.GTT\source\repos\JuegoVidaMiriam\Juego\Juego\obj\Debug\netcoreapp2.2\Juego.pdb

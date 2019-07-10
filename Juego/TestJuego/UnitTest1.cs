@@ -67,7 +67,7 @@ namespace Tests
 
             ChangeEstado = Normas.IsAlive(EstadoInicial, celulasVecinas);
 
-            Assert.IsTrue(ChangeEstado);
+            Assert.IsFalse(ChangeEstado);
         }
 
         [Test]
@@ -79,7 +79,7 @@ namespace Tests
 
             ChangeEstado = Normas.IsAlive(EstadoInicial, celulasVecinas);
 
-            Assert.IsFalse(ChangeEstado);
+            Assert.IsTrue(ChangeEstado);
         }
 
         public void IfIsAlive3()
@@ -102,7 +102,7 @@ namespace Tests
 
             ChangeEstado = Normas.IsAlive(EstadoInicial, celulasVecinas);
 
-            Assert.IsTrue(ChangeEstado);
+            Assert.IsFalse(ChangeEstado);
         }
     }
 }

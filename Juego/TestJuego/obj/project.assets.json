@@ -5772,11 +5772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\ElJuegoDeLaVida\\Juego\\TestJuego\\TestJuego.csproj",
+      "projectUniqueName": "C:\\Users\\formacion.GTT\\source\\repos\\JuegoVidaMiriam\\Juego\\TestJuego\\TestJuego.csproj",
       "projectName": "TestJuego",
-      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\ElJuegoDeLaVida\\Juego\\TestJuego\\TestJuego.csproj",
+      "projectPath": "C:\\Users\\formacion.GTT\\source\\repos\\JuegoVidaMiriam\\Juego\\TestJuego\\TestJuego.csproj",
       "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\ElJuegoDeLaVida\\Juego\\TestJuego\\obj\\",
+      "outputPath": "C:\\Users\\formacion.GTT\\source\\repos\\JuegoVidaMiriam\\Juego\\TestJuego\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5795,8 +5795,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\formacion.GTT\\Desktop\\ElJuegoDeLaVida\\Juego\\Juego\\Juego.csproj": {
-              "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\ElJuegoDeLaVida\\Juego\\Juego\\Juego.csproj"
+            "C:\\Users\\formacion.GTT\\source\\repos\\JuegoVidaMiriam\\Juego\\Juego\\Juego.csproj": {
+              "projectPath": "C:\\Users\\formacion.GTT\\source\\repos\\JuegoVidaMiriam\\Juego\\Juego\\Juego.csproj"
             }
           }
         }
