@@ -4,7 +4,13 @@ using System.Text;
 
 namespace Juego
 {
-    class Normas
+    public class Normas
     {
+        public bool EstadoInicial;
+        
+        public static bool IsAlive(bool EstadoInnicial, int celulasVecinas)
+        {
+            throw new Exception("Metodo no implementado");
+        }
     }
 }
