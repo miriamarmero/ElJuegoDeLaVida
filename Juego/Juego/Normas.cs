@@ -11,14 +11,11 @@ namespace Juego
         public static bool IsAlive(bool EstadoInnicial, int celulasVecinas)
         {
             bool estado = EstadoInnicial;
-            if (!EstadoInnicial && celulasVecinas == 3)
+            if ((!EstadoInnicial && celulasVecinas == 3) || (EstadoInnicial && celulasVecinas == 2))
             {
-                estado= true;
+                estado = true;
             }
-            if (EstadoInnicial && (celulasVecinas <= 1 || celulasVecinas >= 4))
-            {
-                estado= false;
-            }
+            else estado = false;           
             return estado;
         }
     }
